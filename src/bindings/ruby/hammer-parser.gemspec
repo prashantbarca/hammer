@@ -1,7 +1,7 @@
 #encoding: UTF-8
 Gem::Specification.new do |s|
   s.name          = 'hammer-parser'
-  s.version       = '0.2.0'
+  s.version       = '0.2.1'
   s.summary       = 'Ruby bindings to the hammer parsing library.'
   s.description   = s.summary # TODO: longer description?
   s.authors       = ['Meredith L. Patterson', 'TQ Hirsch', 'Jakob Rath']
